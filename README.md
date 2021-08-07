@@ -1,5 +1,9 @@
 # React Native Image Resizer
 
+## The fork is for internal project fix [Link](https://github.com/bamlab/react-native-image-resizer/pull/274) sharing while it is not merged and published via npm
+
+## Original MD
+
 A React Native module that can create scaled versions of local images (also supports the assets library on iOS).
 |react-native| react-native-image-resizer|
 | --- | --- |
